@@ -1,7 +1,7 @@
 # Ember Website
 This is the legacy repository for the [Ember.js public website](https://emberjs.com). 
 
-You can find the current repositories here:
+Following are the current repositories:
 - [Main website](https://github.com/ember-learn/ember-website)
 - [Blog](https://github.com/ember-learn/ember-blog)
 - [API Docs](https://github.com/ember-learn/ember-api-docs) 
